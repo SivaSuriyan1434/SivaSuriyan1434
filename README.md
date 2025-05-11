@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @SivaSuriyan1434
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently pursuing BE CSE 3rd Year
-- 📫 You can reach me in "@sivasuriyansk" on IG
+- 👨‍💻 SivaSuriyan SK
+- Associate Software Engineer I @ Carelon Global Solutions
+- ETL & BusinessObjects Developer | US Healthcare Domain
+- Skilled in IBM Mainframe, SQL, Informatica Powercenter
+- Bengaluru, India | Hybrid
 
 <!---
 SivaSuriyan1434/SivaSuriyan1434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
